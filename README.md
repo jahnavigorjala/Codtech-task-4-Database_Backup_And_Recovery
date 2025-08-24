@@ -1,4 +1,12 @@
-# Codtech-task-4-Database_Backup_And_Recovery
+# 🗃️ Codtech-task-4
+
+👩‍🎓Prepared by:GORJALA JAHNAVI
+
+🏷️Internship Id CT04DZ839
+
+🏢Organization: CODTECH
+
+📆Date: August 2025
 
 # 🗄️ Database Backup and Recovery (Task-4)
 
